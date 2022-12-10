@@ -46,10 +46,9 @@
     <!-- Preloader End -->
 
     <!-- Document Wrapper
-=============================== -->
+    =============================== -->
     <div id="main-wrapper">
-        <!-- Header
-  ============================ -->
+        <!-- Header ============================ -->
         <header id="header" class="sticky-top">
             <!-- Navbar -->
             <nav class="primary-menu navbar navbar-expand-lg navbar-dark bg-dark border-bottom-0">
@@ -100,12 +99,10 @@
         </header>
         <!-- Header End -->
 
-        <!-- Content
-  ============================================= -->
+        <!-- Content ============================================= -->
         <div id="content" role="main">
 
-            <!-- Intro
-    ============================================= -->
+            <!-- Intro  ============================================= -->
             <section id="home">
                 <div class="hero-wrap">
                     <div class="hero-mask opacity-8 bg-dark"></div>
@@ -139,10 +136,11 @@
             </section>
             <!-- Intro end -->
 
-            <!-- About
-    ============================================= -->
-            <section id="about" class="section bg-dark-1">
+            <!-- About ============================================= -->
+            <section id="about" class="section bg-dark-2"
+                style="background-image:url('images/download1.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
+
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
                         <h2 class="text-24 text-muted opacity-5 text-uppercase fw-600 w-100 mb-0">About</h2>
@@ -156,7 +154,7 @@
                     <div class="row gy-5">
                         <div class="col-lg-7 col-xl-8 text-center text-lg-start">
                             <h2 class="text-7 text-white fw-600 mb-3">I'm <span class="text-primary">Adwa
-                                    Najmi,</span> Software Engineer</h2>
+                                    Najmi,</span>a Software Engineer</h2>
                             <p class="text-white-50">who is seeking to find the opportunity to work
                                 in a fun and challenging working environment that
                                 will encourage me to improve and learn new skill as well as be motivated by the company
@@ -195,7 +193,7 @@
                             <div class="col-6 col-md-3">
                                 <div class="featured-box text-center">
                                     <h4 class="text-12 text-white-50 mb-0"><span class="counter" data-from="0"
-                                            data-to="4">4</span>+</h4>
+                                            data-to="5">5</span>+</h4>
                                     <p class="text-light mb-0">Projects Done</p>
                                 </div>
                             </div>
@@ -206,8 +204,7 @@
             </section>
             <!-- About end -->
 
-            <!-- Services
-    ============================================= -->
+            <!-- Services ============================================= -->
             <section id="services" class="section bg-dark-2"
                 style="background-image:url('images/wallpaper.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
@@ -285,15 +282,14 @@
             </section>
             <!-- Services end -->
 
-            <!-- Resume
-    ============================================= -->
+            <!-- Resume ============================================= -->
             <section id="resume" class="section bg-dark-1">
                 <div class="container px-lg-5">
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
                         <h2 class="text-24 text-muted opacity-5 text-uppercase fw-600 w-100 mb-0">Summary</h2>
                         <p class="text-9 text-white fw-600 position-absolute w-100 align-self-center lh-base mb-0">
-                            Resume<span
+                            My Resume<span
                                 class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span>
                         </p>
                     </div>
@@ -383,7 +379,7 @@
             </section>
 
             <section id="skill" class="section bg-dark-2"
-                style="background-image:url('images/download1.jpeg'); background-size: cover;">
+                style="background-image:url('images/download3.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
@@ -445,8 +441,7 @@
             </section>
             <!-- Resume end -->
 
-            <!-- Portfolio
-    ============================================= -->
+            <!-- Portfolio ============================================= -->
             <section id="portfolio" class="section bg-dark-2">
                 <div class="container px-lg-5">
                     <!-- Heading -->
@@ -476,12 +471,13 @@
                             <div class="col-sm-6 col-lg-4 brand">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-1.jpg" alt="">
+                                            src="images/projects/tnb.jpeg" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-1.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">TNB Genco Academy</h5>
+                                                <span class="text-light">Create and developed a website for TNB HQ
+                                                    Department from scratch</span>
                                             </div>
                                         </div>
                                     </div>
@@ -490,12 +486,12 @@
                             <div class="col-sm-6 col-lg-4 design">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-2.jpg" alt="">
+                                            src="images/projects/rmk12.png" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-2.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">EPU - RMK12</h5>
+                                                <span class="text-light">Developed a website from scratch</span>
                                             </div>
                                         </div>
                                     </div>
@@ -504,12 +500,12 @@
                             <div class="col-sm-6 col-lg-4 artwork photos">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-3.jpg" alt="">
+                                            src="images/projects/gogolf.png" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-3.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">Gogolf Mobile Application</h5>
+                                                <span class="text-light">Final Year Project during Degree</span>
                                             </div>
                                         </div>
                                     </div>
@@ -518,12 +514,12 @@
                             <div class="col-sm-6 col-lg-4 artwork brand photos">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-4.jpg" alt="">
+                                            src="images/projects/mm2h.png" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-4.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">Malaysia My Second Home</h5>
+                                                <span class="text-light">Maintaining the website using wordpress</span>
                                             </div>
                                         </div>
                                     </div>
@@ -532,12 +528,13 @@
                             <div class="col-sm-6 col-lg-4 design">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-5.jpg" alt="">
+                                            src="images/projects/mbpj.jpeg" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-5.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">MBPJ - E-Sistem Kutipan</h5>
+                                                <span class="text-light">Created a prototype website to show and
+                                                    demonstrate to client</span>
                                             </div>
                                         </div>
                                     </div>
@@ -546,12 +543,13 @@
                             <div class="col-sm-6 col-lg-4 brand">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-6.jpg" alt="">
+                                            src="images/projects/maiwp.webp" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-6.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">MAIWP - Sistem Pengurusan Sumber</h5>
+                                                <span class="text-light">Created a prototype website to show and
+                                                    demonstrate to client</span>
                                             </div>
                                         </div>
                                     </div>
@@ -560,12 +558,12 @@
                             <div class="col-sm-6 col-lg-4 design photos">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/project-7.jpg" alt="">
+                                            src="images/projects/gym.webp" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="ajax/portfolio-ajax-project-dark-7.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">Project Title</h5>
-                                                <span class="text-light">Category</span>
+                                                <h5 class="text-white fw-400">Health Fitness Mobile Application</h5>
+                                                <span class="text-light">Final Year Project during Diploma</span>
                                             </div>
                                         </div>
                                     </div>
@@ -577,8 +575,7 @@
             </section>
             <!-- Portfolio end -->
 
-            <!-- Testimonial
-    ============================================= -->
+            <!-- Testimonial ============================================= -->
             <section id="testimonial" class="section bg-dark-1">
                 <div class="container px-lg-5">
                     <!-- Heading -->
@@ -619,7 +616,7 @@
                                         class="img-fluid rounded-circle d-inline-block w-auto"
                                         src="images/testimonial/client-sm-1.jpg" alt="">
                                     <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Wan
-                                            Huzairy</strong>
+                                            Huzairi</strong>
                                         <span class="text-white-50 fw-500">Senior PHP Developer at Pipeline
                                             Network</span>
                                     </p>
@@ -638,7 +635,8 @@
                                 <div class="d-flex align-items-center mt-auto mb-4"> <img
                                         class="img-fluid rounded-circle d-inline-block w-auto"
                                         src="images/testimonial/client-sm-2.jpg" alt="">
-                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Rajasuriya</strong>
+                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Suguneswari Raja
+                                            Gopal</strong>
                                         <span class="text-white-50 fw-500">Lecturer from UNIKL</span>
                                     </p>
                                 </div>
@@ -676,8 +674,7 @@
             </section>
             <!-- Testimonial end -->
 
-            <!-- Contact Me
-    ============================================= -->
+            <!-- Contact Me ============================================= -->
             <section id="contact" class="section bg-dark-2"
                 style="background-image:url('images/contact.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
@@ -756,9 +753,9 @@
         </div>
         <!-- Content end -->
 
-        <!-- Footer
-  ============================================= -->
-        <footer id="footer" class="section footer-dark bg-dark-1">
+        <!-- Footer ============================================= -->
+        <footer id="footer" class="section footer-dark bg-dark-1"
+            style="background-image:url('images/banner.png'); background-size: cover; background-attachment: fixed;background-repeat: no-repeat;">
             <div class="container px-lg-5">
                 <div class="row">
                     <div class="col-lg-6 text-center text-lg-start">
@@ -783,13 +780,11 @@
     </div>
     <!-- Document Wrapper end -->
 
-    <!-- Back to Top
-============================================= -->
+    <!-- Back to Top ============================================= -->
     <a id="back-to-top" class="rounded-circle" data-bs-toggle="tooltip" title="Back to Top"
         href="javascript:void(0)"><i class="fa fa-chevron-up"></i></a>
 
-    <!-- Terms & Policy Modal
-================================== -->
+    <!-- Terms & Policy Modal ================================== -->
     <div id="terms-policy" class="modal fade" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
             <div class="modal-content bg-dark-2 text-light">
@@ -842,8 +837,7 @@
     </div>
     <!-- Terms & Policy Modal End -->
 
-    <!-- Disclaimer Modal
-================================== -->
+    <!-- Disclaimer Modal ================================== -->
     <div id="disclaimer" class="modal fade" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
             <div class="modal-content bg-dark-2 text-light">
