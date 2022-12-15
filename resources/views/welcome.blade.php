@@ -63,7 +63,7 @@
                             <img class="img-fluid rounded-pill d-block" src="images/adwa.webp" title="I'm Adwa"
                                 alt="">
                         </span>
-                        <h1 class="text-5 text-white text-center mb-0 d-lg-block">Adwa Najmi</h1>
+                        <h1 class="text-5 text-white text-center mb-0 d-lg-block fa-bounce">Adwa Najmi</h1>
                     </a>
                     <!-- Logo End -->
 
