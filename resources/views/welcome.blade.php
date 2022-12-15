@@ -26,7 +26,7 @@
     <!-- Magnific Popup -->
     <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css" />
     <!-- Custom Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <!-- Colors Css -->
     <link id="color-switcher" type="text/css" rel="stylesheet" href="#" />
 
@@ -35,14 +35,14 @@
 <body class="side-header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
 
     <!-- Preloader -->
-    {{-- <div class="preloader preloader-dark">
+    <div class="preloader preloader-dark">
         <div class="lds-ellipsis">
             <div></div>
             <div></div>
             <div></div>
             <div></div>
         </div>
-    </div> --}}
+    </div>
     <!-- Preloader End -->
 
     <!-- Document Wrapper
@@ -231,8 +231,28 @@
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-palette"></i> </div>
-                                        <h3 class="text-white">Graphic Design</h3>
+                                                class="fa-solid fa-laptop-code"></i></div>
+                                        <h3 class="text-white">Front-end Development</h3>
+                                        <p class="text-white-50 mb-0">I usally use the basic from Laravel which is
+                                            blade file, including HTML, CSS, and jQuery. I also has experience on
+                                            Angular framework</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="featured-box style-3 mb-5">
+                                        <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
+                                                class="fa-solid fa-code"></i></div>
+                                        <h3 class="text-white">Back-end development</h3>
+                                        <p class="text-white-50 mb-0">Most of my project, I use PHP language in Laravel
+                                            framework. I would like to try new language but at the same time, I want to
+                                            enhance my Laravel skill too!</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="featured-box style-3 mb-5">
+                                        <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
+                                                class="fa-solid fa-mobile"></i> </div>
+                                        <h3 class="text-white">Mobile Development</h3>
                                         <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
                                             persequeris vim, ad mea essent possim iriure.</p>
                                     </div>
@@ -240,28 +260,10 @@
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-desktop"></i></div>
-                                        <h3 class="text-white">Web Design</h3>
-                                        <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
-                                            persequeris vim, ad mea essent possim iriure.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="featured-box style-3 mb-5">
-                                        <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-pencil-ruler"></i> </div>
-                                        <h3 class="text-white">UI/UX Design</h3>
-                                        <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
-                                            persequeris vim, ad mea essent possim iriure.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="featured-box style-3 mb-5">
-                                        <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-paint-brush"></i> </div>
-                                        <h3 class="text-white">App Design &amp; Develop</h3>
-                                        <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
-                                            persequeris vim, ad mea essent possim iriure.</p>
+                                                class="fa-solid fa-sitemap"></i> </div>
+                                        <h3 class="text-white">Database</h3>
+                                        <p class="text-white-50 mb-0">Currently I only use MySQL Database, but I have
+                                            experience on Oracle and Firebase database too but only basic...</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
