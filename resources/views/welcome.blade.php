@@ -38,14 +38,14 @@
 <body class="side-header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
 
     <!-- Preloader -->
-    {{-- <div class="preloader preloader-dark">
+    <div class="preloader preloader-dark">
         <div class="lds-ellipsis">
             <div></div>
             <div></div>
             <div></div>
             <div></div>
         </div>
-    </div> --}}
+    </div>
     <!-- Preloader End -->
 
     <!-- Document Wrapper
@@ -84,20 +84,20 @@
                         </ul>
                     </div>
                     <ul class="social-icons social-icons-muted social-icons-sm mt-lg-auto ms-auto ms-lg-0 d-flex">
-                        <li class="social-icons-facebook"><a data-bs-toggle="tooltip" title="Facebook"
+                        <li class="social-icons-facebook fa-spin"><a data-bs-toggle="tooltip" title="Facebook"
                                 href="http://www.facebook.com/foreverchamp/" target="_blank"><i
                                     class="fab fa-facebook-f"></i></a>
                         </li>
-                        <li class="social-icons-twitter"><a data-bs-toggle="tooltip" title="Twitter"
+                        <li class="social-icons-twitter fa-flip"><a data-bs-toggle="tooltip" title="Twitter"
                                 href="http://www.twitter.com/adwanajmi/" target="_blank"><i
                                     class="fab fa-twitter"></i></a></li>
-                        <li class="social-icons-instagram"><a data-bs-toggle="tooltip" title="Instagram"
+                        <li class="social-icons-instagram fa-bounce"><a data-bs-toggle="tooltip" title="Instagram"
                                 data-bs-placement="top" href="http://www.instagram.com/adwanajmi/" target="_blank"><i
                                     class="fab fa-instagram"></i></a></li>
-                        <li class="social-icons-github"><a data-bs-toggle="tooltip" title="GitHub"
+                        <li class="social-icons-github fa-fade"><a data-bs-toggle="tooltip" title="GitHub"
                                 data-bs-placement="top" href="http://www.github.com/adwanajmi/" target="_blank"><i
                                     class="fab fa-github"></i></a></li>
-                        <li class="social-icons-whatsapp"><a data-bs-toggle="tooltip" title="Whatsapp"
+                        <li class="social-icons-whatsapp fa-beat"><a data-bs-toggle="tooltip" title="Whatsapp"
                                 data-bs-placement="top" href="http://www.wasap.my/601121324249/" target="_blank"><i
                                     class="fab fa-whatsapp"></i></a></li>
                     </ul>
@@ -236,7 +236,7 @@
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fa-solid fa-laptop-code"></i></div>
+                                                class="fa-solid fa-laptop-code fa-beat"></i></div>
                                         <h3 class="text-white">Front-end Development</h3>
                                         <p class="text-white-50 mb-0">I usally use the basic from Laravel which is
                                             blade file, including HTML, CSS, and jQuery. I also has experience on
@@ -246,7 +246,7 @@
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fa-solid fa-code"></i></div>
+                                                class="fa-solid fa-code fa-beat"></i></div>
                                         <h3 class="text-white">Back-end development</h3>
                                         <p class="text-white-50 mb-0">Most of my project, I use PHP language in Laravel
                                             framework. I would like to try new language but at the same time, I want to
@@ -256,39 +256,39 @@
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fa-solid fa-mobile"></i> </div>
+                                                class="fa-solid fa-mobile-retro fa-beat"></i> </div>
                                         <h3 class="text-white">Mobile Development</h3>
-                                        <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
-                                            persequeris vim, ad mea essent possim iriure.</p>
+                                        <p class="text-white-50 mb-0">I have an experience working with Flutter and
+                                            Ionic during my studies at University.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fa-solid fa-sitemap"></i> </div>
+                                                class="fa-solid fa-sitemap fa-beat"></i> </div>
                                         <h3 class="text-white">Database</h3>
                                         <p class="text-white-50 mb-0">Currently I only use MySQL Database, but I have
                                             experience on Oracle and Firebase database too but only basic...</p>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                {{-- <div class="col-md-6">
                                     <div class="featured-box style-3 mb-5 mb-md-0">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-chart-area"></i> </div>
+                                                class="fas fa-chart-area fa-beat"></i> </div>
                                         <h3 class="text-white">Business Analysis</h3>
-                                        <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
-                                            persequeris vim, ad mea essent possim iriure.</p>
+                                        <p class="text-white-50 mb-0">I have an experience working with Flutter and
+                                            Ionic during my studies at University.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="featured-box style-3 mb-0">
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
-                                                class="fas fa-bullhorn"></i> </div>
+                                                class="fas fa-bullhorn fa-beat"></i> </div>
                                         <h3 class="text-white">SEO Marketing</h3>
                                         <p class="text-white-50 mb-0">Lisque persius interesset his et, in quot quidam
                                             persequeris vim, ad mea essent possim iriure.</p>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -319,7 +319,7 @@
                                 <h3 class="text-5 text-white">Bachelor of Software Engineering with Honor</h3>
                                 <a class="text-primary" href="https://www.unikl.edu.my/">Unikl Malaysian Institute of
                                     Information Technology</a>
-                                <li class="text-white-50 mb-0">Graduated with 2.94CGPA</li>
+                                <li class="text-white-50 mb-0">Graduated with CGPA 2.94</li>
                                 <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
                                     called as Gogolf.
 
@@ -332,7 +332,30 @@
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">Diploma in Software Engineering</h3>
                                 <a class="text-primary" href="https://www.mmu.edu.my/">Multimedia University</a>
-                                <li class="text-white-50 mb-0">Graduated with 3.1 CGPA</li>
+                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
+                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
+                                    called as Health Fitness</li>
+                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
+                                    the workout routine for those that are new into the gym sport.</li>
+
+                            </div>
+                            <div class="bg-dark rounded p-4 mb-4">
+                                <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
+                                <h3 class="text-5 text-white">Electrical Engineering (SPM)</h3>
+                                <a class="text-primary">SM Teknik Gombak</a>
+                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
+                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
+                                    called as Health Fitness</li>
+                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
+                                    the workout routine for those that are new into the gym sport.</li>
+
+                            </div>
+
+                            <div class="bg-dark rounded p-4 mb-4">
+                                <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
+                                <h3 class="text-5 text-white">PMR</h3>
+                                <a class="text-primary" href="https://www.smktmelawati.edu.my/">SMK Taman Melawati</a>
+                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
                                 <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
                                     called as Health Fitness</li>
                                 <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
@@ -349,9 +372,11 @@
                                 <p class="badge bg-success text-2 fw-400">January 2022 - Present</p>
                                 <h3 class="text-5 text-white">Software Engineer</h3>
                                 <a class="text-primary" href="https://pipeline.com.my">Pipeline Network Sdn Bhd</a>
-                                <p class="text-white-50 mb-0">Developed 2 prototype website for:
-                                <p>-MBPJ Sistem Kutipan <br>-MAIWP - Sistem Pengurusan Sumber </p>
-                                </p>
+                                <li class="text-white-50 mb-0">Developed 2 prototype website for:-
+                                <li class="text-white-50 mb-0">-MBPJ Sistem Kutipan</li>
+                                <li class="text-white-50 mb-0">-MAIWP - Sistem Pengurusan
+                                    Sumber </li>
+                                </li>
                                 <li class="text-white-50 mb-0">The website is basically to show to the client and
                                     demonstrate the system flow structure for client to get better picture before
                                     proceed to main project</li>
@@ -376,15 +401,24 @@
                                 </li>
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
-                                <p class="badge bg-success text-2 fw-400">March 2020 - Novemeber 2020</p>
+                                <p class="badge bg-success text-2 fw-400">March 2020 - November 2020</p>
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
-                                <a class="text-primary" href="https://tnbgenco.com.my/">TNB Headquarters</a>
+                                <a class="text-primary" href="https://tnbgenco.com.my/">TNB Headquarters - Degree</a>
                                 <li class="text-white-50 mb-0">Able to develop a website for Genco Academy Department
                                     by
                                     using Laravel system.</li>
                                 <li class="text-white-50 mb-0">Improving technological skills like the GUI provided
                                     functions to add user, department, learning management system and view history at
                                     the website.</li>
+
+                            </div>
+                            <div class="bg-dark rounded p-4 mb-4">
+                                <p class="badge bg-success text-2 fw-400">November 2016 - March 2017</p>
+                                <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
+                                <a class="text-primary" href="https://tnbgenco.com.my/">Malaysia My 2nd Home -
+                                    Diploma</a>
+                                <li class="text-white-50 mb-0">Maintan a website system using WordPress</li>
+                                <li class="text-white-50 mb-0">Edit and update some content </li>
 
                             </div>
                         </div>
