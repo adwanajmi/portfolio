@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="images/favicon.png" rel="icon" />
+    <link href="images/logo.png" rel="icon" />
     <title>Adwa Najmi</title>
     <meta name="description" content="Simone is responsive bootstrap 5 one page personal portfolio html template.">
     <meta name="author" content="harnishdesign.net">
@@ -80,16 +80,21 @@
                     </div>
                     <ul class="social-icons social-icons-muted social-icons-sm mt-lg-auto ms-auto ms-lg-0 d-flex">
                         <li class="social-icons-facebook"><a data-bs-toggle="tooltip" title="Facebook"
-                                href="http://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                href="http://www.facebook.com/foreverchamp/" target="_blank"><i
+                                    class="fab fa-facebook-f"></i></a>
                         </li>
                         <li class="social-icons-twitter"><a data-bs-toggle="tooltip" title="Twitter"
-                                href="http://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                        <li class="social-icons-dribbble"><a data-bs-toggle="tooltip" title="Dribbble"
-                                data-bs-placement="top" href="http://www.dribbble.com/" target="_blank"><i
-                                    class="fab fa-dribbble"></i></a></li>
+                                href="http://www.twitter.com/adwanajmi/" target="_blank"><i
+                                    class="fab fa-twitter"></i></a></li>
+                        <li class="social-icons-instagram"><a data-bs-toggle="tooltip" title="Instagram"
+                                data-bs-placement="top" href="http://www.instagram.com/adwanajmi/" target="_blank"><i
+                                    class="fab fa-instagram"></i></a></li>
                         <li class="social-icons-github"><a data-bs-toggle="tooltip" title="GitHub"
-                                data-bs-placement="top" href="http://www.google.com/" target="_blank"><i
+                                data-bs-placement="top" href="http://www.github.com/adwanajmi/" target="_blank"><i
                                     class="fab fa-github"></i></a></li>
+                        <li class="social-icons-whatsapp"><a data-bs-toggle="tooltip" title="Whatsapp"
+                                data-bs-placement="top" href="http://www.wasap.my/601121324249/" target="_blank"><i
+                                    class="fab fa-whatsapp"></i></a></li>
                     </ul>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#header-nav"><span></span><span></span><span></span></button>
@@ -154,7 +159,7 @@
                     <div class="row gy-5">
                         <div class="col-lg-7 col-xl-8 text-center text-lg-start">
                             <h2 class="text-7 text-white fw-600 mb-3">I'm <span class="text-primary">Adwa
-                                    Najmi,</span>a Software Engineer</h2>
+                                    Najmi,</span> a Software Engineer</h2>
                             <p class="text-white-50">who is seeking to find the opportunity to work
                                 in a fun and challenging working environment that
                                 will encourage me to improve and learn new skill as well as be motivated by the company
@@ -167,16 +172,18 @@
                         <div class="col-lg-5 col-xl-4">
                             <div class="ps-lg-4">
                                 <ul class="list-style-2 list-style-light text-light">
-                                    <li><span class="fw-600 me-2">Name:</span>Adwa Najmi</li>
-                                    <li><span class="fw-600 me-2">Contact:</span><a
-                                            href="https://www.wasap.my/601121324249">+601121324249</a></li>
+                                    <li><span class="fw-600 me-2">Name:</span>Muhammad Adwa Najmi Bin Rosmadi</li>
+                                    <li><span class="fw-600 me-2">Age:</span>26</li>
+                                    <li><span class="fw-600 me-2"><span class="fab fa-whatsapp"></span>
+                                            Contact:</span><a href="https://www.wasap.my/601121324249">
+                                            +601121324249</a></li>
                                     <li><span class="fw-600 me-2">Email:</span><a
                                             href="mailto:adwaaa@live.com">adwaaa@live.com</a></li>
-                                    <li><span class="fw-600 me-2">Age:</span>26</li>
                                     <li class="border-0"><span class="fw-600 me-2">From:</span>Wangsa Maju, KL
                                     </li>
                                 </ul>
-                                <a href="#" class="btn btn-primary rounded-pill text-dark">Download CV</a>
+                                <a href="#" class="btn btn-primary rounded-pill text-dark">Download My
+                                    Resume</a>
                             </div>
                         </div>
                     </div>
@@ -303,7 +310,8 @@
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-primary text-2 fw-400">2017 - 2020</p>
                                 <h3 class="text-5 text-white">Bachelor of Software Engineering with Honor</h3>
-                                <p class="text-primary">Unikl Malaysian Institute of Information Technology</p>
+                                <a class="text-primary" href="https://www.unikl.edu.my/">Unikl Malaysian Institute of
+                                    Information Technology</a>
                                 <p class="text-white-50 mb-0">Graduated with 2.94CGPA</p>
                                 <p class="text-white-50 mb-0">Developed a mobile application system for my FYP which
                                     called as Gogolf.
@@ -316,7 +324,7 @@
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">Diploma in Software Engineering</h3>
-                                <p class="text-primary">Multimedia University</p>
+                                <a class="text-primary" href="https://www.mmu.edu.my/">Multimedia University</a>
                                 <p class="text-white-50 mb-0">Graduated with 3.1 CGPA</p>
                                 <p class="text-white-50 mb-0">Developed a mobile application system for my FYP which
                                     called as Health Fitness</p>
@@ -329,10 +337,11 @@
                         <!-- My Experience -->
                         <div class="col-md-6">
                             <h2 class="text-6 text-white fw-600 mb-4">My Work Experience</h2>
+
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">January 2022 - Present</p>
                                 <h3 class="text-5 text-white">Software Engineer</h3>
-                                <p class="text-primary">Pipeline Network Sdn Bhd</p>
+                                <a class="text-primary" href="https://pipeline.com.my">Pipeline Network Sdn Bhd</a>
                                 <p class="text-white-50 mb-0">Developed 2 prototype website for:
                                 <p>-MBPJ Sistem Kutipan <br>-MAIWP - Sistem Pengurusan Sumber </p>
                                 </p>
@@ -348,7 +357,7 @@
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">January 2021 - May 2021</p>
                                 <h3 class="text-5 text-white">IT Technical Sale Executive</h3>
-                                <p class="text-primary">Qowi Global Sdn Bhd</p>
+                                <a class="text-primary" href="http://qowiglobal.com/">Qowi Global Sdn Bhd</a>
                                 <p class="text-white-50 mb-0">Sourcing tender from E-Perolehan System.
 
                                 </p>
@@ -362,7 +371,7 @@
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">March 2020 - Novemeber 2020</p>
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
-                                <p class="text-primary">TNB Headquarters</p>
+                                <a class="text-primary" href="https://tnbgenco.com.my/">TNB Headquarters</a>
                                 <p class="text-white-50 mb-0">Able to develop a website for Genco Academy Department by
                                     using Laravel system.</p>
                                 <p class="text-white-50 mb-0">Improving technological skills like the GUI provided
@@ -372,9 +381,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="text-center mt-5"><a href="#"
+                    {{-- <div class="text-center mt-5"><a href="#"
                             class="btn btn-outline-secondary rounded-pill shadow-none">Download CV <span
-                                class="ms-1"><i class="fas fa-download"></i></span></a></div>
+                                class="ms-1"><i class="fas fa-download"></i></span></a></div> --}}
                 </div>
             </section>
 
@@ -458,37 +467,38 @@
                     <ul class="portfolio-menu nav nav-tabs nav-light justify-content-center border-bottom-0 mb-5">
                         <li class="nav-item"> <a data-filter="*" class="nav-link active" href="">All</a>
                         </li>
-                        <li class="nav-item"> <a data-filter=".design" href="" class="nav-link">Design</a>
+                        <li class="nav-item"> <a data-filter=".project" href="" class="nav-link">Project</a>
                         </li>
-                        <li class="nav-item"> <a data-filter=".brand" href="" class="nav-link">Brand</a>
+                        <li class="nav-item"> <a data-filter=".fyp" href="" class="nav-link">Final Year
+                                Project</a>
                         </li>
-                        <li class="nav-item"> <a data-filter=".photos" href="" class="nav-link">Photos</a>
+                        <li class="nav-item"> <a data-filter=".intern" href=""
+                                class="nav-link">Internship</a>
                         </li>
                     </ul>
                     <!-- Filter Menu end -->
                     <div class="portfolio popup-ajax-gallery">
                         <div class="row portfolio-filter g-4">
-                            <div class="col-sm-6 col-lg-4 brand">
+                            <div class="col-sm-6 col-lg-4 intern">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/tnb.jpeg" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                                                href="ajax/portfolio-ajax-project-dark-1.html"></a>
+                                                href="projek/tnb.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">TNB Genco Academy</h5>
-                                                <span class="text-light">Create and developed a website for TNB HQ
-                                                    Department from scratch</span>
+                                                <h5 class="text-white fw-400">TNB Headquarters</h5>
+                                                <span class="text-light">Genco Academy</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 design">
+                            <div class="col-sm-6 col-lg-4 project">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/rmk12.png" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                                                href="ajax/portfolio-ajax-project-dark-2.html"></a>
+                                                href="projek/emas.html"></a>
                                             <div class="portfolio-overlay-details">
                                                 <h5 class="text-white fw-400">EPU - RMK12</h5>
                                                 <span class="text-light">Developed a website from scratch</span>
@@ -497,12 +507,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 artwork photos">
+                            <div class="col-sm-6 col-lg-4 fyp">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/gogolf.png" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                                                href="ajax/portfolio-ajax-project-dark-3.html"></a>
+                                                href="projek/gogolf.html"></a>
                                             <div class="portfolio-overlay-details">
                                                 <h5 class="text-white fw-400">Gogolf Mobile Application</h5>
                                                 <span class="text-light">Final Year Project during Degree</span>
@@ -511,7 +521,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 artwork brand photos">
+                            <div class="col-sm-6 col-lg-4 intern">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/mm2h.png" alt="">
@@ -525,7 +535,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 design">
+                            <div class="col-sm-6 col-lg-4 project">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/mbpj.jpeg" alt="">
@@ -540,7 +550,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 brand">
+                            <div class="col-sm-6 col-lg-4 project">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/maiwp.webp" alt="">
@@ -555,7 +565,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-4 design photos">
+                            <div class="col-sm-6 col-lg-4 fyp">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/gym.webp" alt="">
@@ -896,6 +906,7 @@
     <script src="js/switcher.min.js"></script>
     <!-- Custom Script -->
     <script src="js/theme.js"></script>
+    <script src="https://kit.fontawesome.com/f2b831a8bf.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
