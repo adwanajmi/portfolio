@@ -35,14 +35,14 @@
 <body class="side-header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
 
     <!-- Preloader -->
-    <div class="preloader preloader-dark">
+    {{-- <div class="preloader preloader-dark">
         <div class="lds-ellipsis">
             <div></div>
             <div></div>
             <div></div>
             <div></div>
         </div>
-    </div>
+    </div> --}}
     <!-- Preloader End -->
 
     <!-- Document Wrapper
