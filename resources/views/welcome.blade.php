@@ -731,7 +731,8 @@
                         </div> --}}
                         <div class="col-md-8 col-xl-9 order-0 order-md-1">
 
-                            <form id="contact-form" class="form-dark" action="php/mail.php" method="post">
+                            <form class="form-dark" action="/contact_me" method="post">
+                                @csrf
                                 <div class="row g-4">
                                     <div class="col-xl-4">
                                         <input name="name" type="text" class="form-control" required
@@ -742,11 +743,11 @@
                                             placeholder="Your Email">
                                     </div>
                                     <div class="col-xl-4">
-                                        <input name="subject" type="subject" class="form-control" required
+                                        <input name="subjek" type="text" class="form-control" required
                                             placeholder="Subject">
                                     </div>
                                     <div class="col">
-                                        <textarea name="form-message" class="form-control" rows="5" required placeholder="Message"></textarea>
+                                        <textarea name="mesej" type="text" class="form-control" rows="5" required placeholder="Message"></textarea>
                                     </div>
                                 </div>
                                 <p class="text-center mt-4 mb-0">
