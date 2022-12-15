@@ -18,13 +18,13 @@
     <!-- Stylesheet
 ============================== -->
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/bootstrap/css/bootstrap.min.css" />
     <!-- Font Awesome Icon -->
-    <link rel="stylesheet" type="text/css" href="vendor/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/font-awesome/css/all.min.css" />
     <!-- Owl Carousel -->
-    <link rel="stylesheet" type="text/css" href="vendor/owl.carousel/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/owl.carousel/assets/owl.carousel.min.css" />
     <!-- Magnific Popup -->
-    <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/magnific-popup/magnific-popup.min.css" />
     <!-- Custom Stylesheet -->
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <!-- Colors Css -->
@@ -888,30 +888,30 @@
     <!-- Disclaimer Modal End -->
 
     <!-- JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Easing -->
-    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="/vendor/jquery.easing/jquery.easing.min.js"></script>
     <!-- Appear -->
-    <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+    <script src="/vendor/jquery.appear/jquery.appear.min.js"></script>
     <!-- Images Loaded -->
-    <script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
     <!-- Counter -->
-    <script src="vendor/jquery.countTo/jquery.countTo.min.js"></script>
+    <script src="/vendor/jquery.countTo/jquery.countTo.min.js"></script>
     <!-- Parallax Bg -->
-    <script src="vendor/parallaxie/parallaxie.min.js"></script>
+    <script src="/vendor/parallaxie/parallaxie.min.js"></script>
     <!-- Typed -->
-    <script src="vendor/typed/typed.min.js"></script>
+    <script src="/vendor/typed/typed.min.js"></script>
     <!-- Owl Carousel -->
-    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="/vendor/owl.carousel/owl.carousel.min.js"></script>
     <!-- isotope Portfolio Filter -->
-    <script src="vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="/vendor/isotope/isotope.pkgd.min.js"></script>
     <!-- Magnific Popup -->
-    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
     <!-- Style Switcher -->
-    <script src="js/switcher.min.js"></script>
+    <script src="/js/switcher.min.js"></script>
     <!-- Custom Script -->
-    <script src="js/theme.js"></script>
+    <script src="/js/theme.js"></script>
 </body>
 
 </html>
