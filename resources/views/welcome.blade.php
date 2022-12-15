@@ -116,7 +116,7 @@
             <section id="home">
                 <div class="hero-wrap">
                     <div class="hero-mask opacity-8 bg-dark"></div>
-                    <div class="hero-bg parallax" style="background-image:url('images/profiles.GIF');"></div>
+                    <div class="hero-bg parallax" style="background-image:url('images/profile.png');"></div>
                     <div class="hero-content section d-flex min-vh-100">
                         <div class="container my-auto">
                             <div class="row">
