@@ -177,7 +177,7 @@
                                 <ul class="list-style-2 list-style-light text-light">
                                     <li><span class="fw-600 me-2">Name:</span>Muhammad Adwa Najmi Bin Rosmadi</li>
                                     <li><span class="fw-600 me-2">Age:</span>26</li>
-                                    <li><span class="fw-600 me-2"><span class="fab fa-whatsapp"></span>
+                                    <li><span class="fw-600 me-2">
                                             Contact:</span><a href="https://www.wasap.my/601121324249">
                                             +601121324249</a></li>
                                     <li><span class="fw-600 me-2">Email:</span><a
@@ -185,7 +185,7 @@
                                     <li class="border-0"><span class="fw-600 me-2">From:</span>Wangsa Maju, KL
                                     </li>
                                 </ul>
-                                <a href="#" class="btn btn-primary rounded-pill text-dark">Download My
+                                <a href="/resume.pdf" class="btn btn-primary rounded-pill text-dark">Download My
                                     Resume</a>
                             </div>
                         </div>
