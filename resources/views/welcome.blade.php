@@ -30,19 +30,22 @@
     <!-- Colors Css -->
     <link id="color-switcher" type="text/css" rel="stylesheet" href="#" />
 
+    <script src="https://kit.fontawesome.com/f2b831a8bf.js" crossorigin="anonymous"></script>
+
+
 </head>
 
 <body class="side-header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
 
     <!-- Preloader -->
-    <div class="preloader preloader-dark">
+    {{-- <div class="preloader preloader-dark">
         <div class="lds-ellipsis">
             <div></div>
             <div></div>
             <div></div>
             <div></div>
         </div>
-    </div>
+    </div> --}}
     <!-- Preloader End -->
 
     <!-- Document Wrapper
@@ -909,7 +912,6 @@
     <script src="js/switcher.min.js"></script>
     <!-- Custom Script -->
     <script src="js/theme.js"></script>
-    <script src="https://kit.fontawesome.com/f2b831a8bf.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
