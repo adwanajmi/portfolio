@@ -77,8 +77,10 @@
                             <li class="nav-item"><a class="nav-link smooth-scroll" href="#testimonial">Testimonial</a>
                             </li>
                             <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
-                            <li>{{ date('Y-m-d H:i:s') }}
-                            </li>
+                            {{-- <li>
+                                <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                                <div class="elfsight-app-b5f35f33-4cfd-4aae-a88d-7e8b90d158b6"></div>
+                            </li> --}}
                         </ul>
                     </div>
                     <ul class="social-icons social-icons-muted social-icons-sm mt-lg-auto ms-auto ms-lg-0 d-flex">
@@ -317,24 +319,24 @@
                                 <h3 class="text-5 text-white">Bachelor of Software Engineering with Honor</h3>
                                 <a class="text-primary" href="https://www.unikl.edu.my/">Unikl Malaysian Institute of
                                     Information Technology</a>
-                                <p class="text-white-50 mb-0">Graduated with 2.94CGPA</p>
-                                <p class="text-white-50 mb-0">Developed a mobile application system for my FYP which
+                                <li class="text-white-50 mb-0">Graduated with 2.94CGPA</li>
+                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
                                     called as Gogolf.
 
-                                </p>
-                                <p class="text-white-50 mb-0">The targeted user is for the golfer that playing golf to
-                                    make the booking process easier</p>
+                                </li>
+                                <li class="text-white-50 mb-0">The targeted user is for the golfer that playing golf to
+                                    make the booking process easier</li>
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">Diploma in Software Engineering</h3>
                                 <a class="text-primary" href="https://www.mmu.edu.my/">Multimedia University</a>
-                                <p class="text-white-50 mb-0">Graduated with 3.1 CGPA</p>
-                                <p class="text-white-50 mb-0">Developed a mobile application system for my FYP which
-                                    called as Health Fitness</p>
-                                <p class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
-                                    the workout routine for those that are new into the gym sport.</p>
+                                <li class="text-white-50 mb-0">Graduated with 3.1 CGPA</li>
+                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
+                                    called as Health Fitness</li>
+                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
+                                    the workout routine for those that are new into the gym sport.</li>
 
                             </div>
                         </div>
@@ -350,38 +352,39 @@
                                 <p class="text-white-50 mb-0">Developed 2 prototype website for:
                                 <p>-MBPJ Sistem Kutipan <br>-MAIWP - Sistem Pengurusan Sumber </p>
                                 </p>
-                                <p class="text-white-50 mb-0">The website is basically to show to the client and
+                                <li class="text-white-50 mb-0">The website is basically to show to the client and
                                     demonstrate the system flow structure for client to get better picture before
-                                    proceed to main project</p>
-                                <p class="text-white-50 mb-0">Currently handling eMAS-RMK12 project for government
+                                    proceed to main project</li>
+                                <li class="text-white-50 mb-0">Currently handling eMAS-RMK12 project for government
                                     website using Laravel framework.
 
-                                </p>
+                                </li>
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">January 2021 - May 2021</p>
                                 <h3 class="text-5 text-white">IT Technical Sale Executive</h3>
                                 <a class="text-primary" href="http://qowiglobal.com/">Qowi Global Sdn Bhd</a>
-                                <p class="text-white-50 mb-0">Sourcing tender from E-Perolehan System.
+                                <li class="text-white-50 mb-0">Sourcing tender from E-Perolehan System.
 
-                                </p>
-                                <p class="text-white-50 mb-0">Meeting with clients virtually and during sales visits.
-                                </p>
-                                <p class="text-white-50 mb-0">Demonstrating and presenting products. Negotiating
+                                </li>
+                                <li class="text-white-50 mb-0">Meeting with clients virtually and during sales visits.
+                                </li>
+                                <li class="text-white-50 mb-0">Demonstrating and presenting products. Negotiating
                                     contracts and packages.
 
-                                </p>
+                                </li>
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">March 2020 - Novemeber 2020</p>
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
                                 <a class="text-primary" href="https://tnbgenco.com.my/">TNB Headquarters</a>
-                                <p class="text-white-50 mb-0">Able to develop a website for Genco Academy Department by
-                                    using Laravel system.</p>
-                                <p class="text-white-50 mb-0">Improving technological skills like the GUI provided
+                                <li class="text-white-50 mb-0">Able to develop a website for Genco Academy Department
+                                    by
+                                    using Laravel system.</li>
+                                <li class="text-white-50 mb-0">Improving technological skills like the GUI provided
                                     functions to add user, department, learning management system and view history at
-                                    the website.</p>
+                                    the website.</li>
 
                             </div>
                         </div>
@@ -545,7 +548,7 @@
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/mbpj.jpeg" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                                                href="ajax/portfolio-ajax-project-dark-5.html"></a>
+                                                href="projek/mbpj.html"></a>
                                             <div class="portfolio-overlay-details">
                                                 <h5 class="text-white fw-400">MBPJ - E-Sistem Kutipan</h5>
                                                 <span class="text-light">Created a prototype website to show and
@@ -560,11 +563,10 @@
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
                                             src="images/projects/maiwp.webp" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
-                                                href="ajax/portfolio-ajax-project-dark-6.html"></a>
+                                                href="projek/maiwp.html"></a>
                                             <div class="portfolio-overlay-details">
-                                                <h5 class="text-white fw-400">MAIWP - Sistem Pengurusan Sumber</h5>
-                                                <span class="text-light">Created a prototype website to show and
-                                                    demonstrate to client</span>
+                                                <h5 class="text-white fw-400">MAIWP</h5>
+                                                <span class="text-light">Sistem Pengurusan Sumber</span>
                                             </div>
                                         </div>
                                     </div>
