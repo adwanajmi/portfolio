@@ -930,7 +930,7 @@
             let element = document.getElementById('embed-iframe');
             let options = {
                 uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
-                auto_play: true
+                autoplay: true
             };
             let callback = (EmbedController) => {};
             IFrameAPI.createController(element, options, callback);
