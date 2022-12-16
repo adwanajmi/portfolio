@@ -392,14 +392,14 @@
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
-                                <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
+                                <p class="badge bg-primary text-2 fw-400">2012 - 2013</p>
                                 <h3 class="text-5 text-white">Electrical Engineering (SPM)</h3>
                                 <a class="text-primary">SM Teknik Gombak</a>
                                 <li class="text-white-50 mb-0">Sijil Pelajaran Malaysia</li>
                             </div>
 
                             <div class="bg-dark rounded p-4 mb-4">
-                                <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
+                                <p class="badge bg-primary text-2 fw-400">2009 - 2011</p>
                                 <h3 class="text-5 text-white">PMR</h3>
                                 <a class="text-primary" href="https://www.smktmelawati.edu.my/">SMK Taman Melawati</a>
                                 <li class="text-white-50 mb-0">Penilaian Menengah Rendah</li>
