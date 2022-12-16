@@ -104,7 +104,7 @@
                     <!-- Logo -->
                     <a href="/" class="mb-lg-auto mt-lg-4">
                         <span class="bg-dark-2 rounded-pill p-2 mb-lg-1 d-none d-lg-inline-block">
-                            <img class="img-fluid rounded-pill d-block" src="images/adwa.webp" title="I'm Adwa"
+                            <img class="img-fluid rounded-pill d-block" src="images/Adwa.gif" title="I'm Adwa"
                                 alt="">
                         </span>
                         <h1 class="text-5 text-white text-center mb-0 d-lg-block fa-bounce">Adwa Najmi</h1>
@@ -212,6 +212,12 @@
                     <!-- Heading end-->
 
                     <div class="row gy-5">
+                        <div class="row mx-0 text-center">
+                            <div class="col">
+                                <img class="img-fluid rounded-pill" src="images/adwa.webp" title="AdwaNajmi"
+                                    alt="" style="max-width: 250px">
+                            </div>
+                        </div>
                         <div class="col-lg-7 col-xl-8 text-center text-lg-start">
                             <h2 class="text-7 text-white fw-600 mb-3">I'm <span class="text-primary">Adwa
                                     Najmi,</span> a Software Engineer</h2>
@@ -237,8 +243,7 @@
                                     <li class="border-0"><span class="fw-600 me-2">From:</span>Wangsa Maju, KL
                                     </li>
                                 </ul>
-                                <a href="/resume.pdf" class="btn btn-primary rounded-pill text-dark">Download My
-                                    Resume</a>
+
                             </div>
                         </div>
                     </div>
@@ -467,9 +472,9 @@
                             </div>
                         </div>
                     </div>
-                    {{-- <div class="text-center mt-5"><a href="#"
-                            class="btn btn-outline-secondary rounded-pill shadow-none">Download CV <span
-                                class="ms-1"><i class="fas fa-download"></i></span></a></div> --}}
+
+                    <a href="/resume.pdf" class="btn btn-primary rounded-pill text-dark">Download My
+                        Resume</a>
                 </div>
             </section>
 
@@ -490,16 +495,16 @@
                     <h2 class="text-6 text-white fw-600 mt-4 mb-4">My Skills</h2>
                     <div class="row gx-5">
                         <div class="col-md-6">
-                            <p class="text-light fw-500 text-start mb-2">Web Design <span class="float-end">65%</span>
+                            <p class="text-light fw-500 text-start mb-2">Web Design <span class="float-end">80%</span>
                             </p>
                             <div class="progress progress-sm bg-dark mb-4">
-                                <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65"
+                                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80"
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <p class="text-light fw-500 text-start mb-2">HTML/CSS <span class="float-end">95%</span>
+                            <p class="text-light fw-500 text-start mb-2">HTML/CSS <span class="float-end">75%</span>
                             </p>
                             <div class="progress progress-sm bg-dark mb-4">
-                                <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95"
+                                <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75"
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <p class="text-light fw-500 text-start mb-2">JavaScript <span class="float-end">50%</span>
@@ -690,7 +695,7 @@
                             <div class="bg-dark rounded p-5">
                                 <div class="d-flex align-items-center mt-auto mb-4"> <img
                                         class="img-fluid rounded-circle d-inline-block w-auto"
-                                        src="images/testimonial/client-sm-3.jpg" alt="">
+                                        src="images/testimonial/azmi.jpg" alt="">
                                     <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Azmi
                                             Awi</strong> <span class="text-white-50 fw-500">Chief Officer at TNB
                                             HQ</span>
@@ -709,7 +714,7 @@
                             <div class="bg-dark rounded p-5">
                                 <div class="d-flex align-items-center mt-auto mb-4"> <img
                                         class="img-fluid rounded-circle d-inline-block w-auto"
-                                        src="images/testimonial/client-sm-1.jpg" alt="">
+                                        src="images/testimonial/wan.jpg" alt="">
                                     <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Wan
                                             Huzairi</strong>
                                         <span class="text-white-50 fw-500">Senior PHP Developer at Pipeline
@@ -729,10 +734,9 @@
                             <div class="bg-dark rounded p-5">
                                 <div class="d-flex align-items-center mt-auto mb-4"> <img
                                         class="img-fluid rounded-circle d-inline-block w-auto"
-                                        src="images/testimonial/client-sm-2.jpg" alt="">
-                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Suguneswari Raja
-                                            Gopal</strong>
-                                        <span class="text-white-50 fw-500">Lecturer from UNIKL</span>
+                                        src="images/testimonial/fatimah.jpg" alt="">
+                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Dr Fatimah</strong>
+                                        <span class="text-white-50 fw-500">Lecturer from Multimedia University</span>
                                     </p>
                                 </div>
                                 <p class="text-light mb-4">“I am happy Working with printing and typesetting
@@ -749,16 +753,32 @@
                             <div class="bg-dark rounded p-5">
                                 <div class="d-flex align-items-center mt-auto mb-4"> <img
                                         class="img-fluid rounded-circle d-inline-block w-auto"
-                                        src="images/testimonial/client-sm-4.jpg" alt="">
-                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Chris
-                                            Tom</strong>
-                                        <span class="text-white-50 fw-500">User from UK</span>
+                                        src="images/testimonial/juliana.jpg" alt="">
+                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Dr Juliana</strong>
+                                        <span class="text-white-50 fw-500">Lecturer from UNIKL</span>
                                     </p>
                                 </div>
                                 <p class="text-light mb-4">“I have used them twice now. Good rates, very efficient
                                     service and priced simply dummy text of the printing and typesetting industry
                                     quidam
                                     interesset his et. Excellent.”</p>
+                                <span class="text-2 text-primary"> <i class="fa-solid fa-star"></i> <i
+                                        class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i
+                                        class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> </span>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="bg-dark rounded p-5">
+                                <div class="d-flex align-items-center mt-auto mb-4"> <img
+                                        class="img-fluid rounded-circle d-inline-block w-auto"
+                                        src="images/testimonial/farra.jpg" alt="">
+                                    <p class="ms-3 mb-0"><strong class="d-block text-white fw-600">Farra
+                                            Natasya</strong>
+                                        <span class="text-white-50 fw-500">Groupmate</span>
+                                    </p>
+                                </div>
+                                <p class="text-light mb-4">“Such an excellence person and very detail oriented person”
+                                </p>
                                 <span class="text-2 text-primary"> <i class="fa-solid fa-star"></i> <i
                                         class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i
                                         class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> </span>
