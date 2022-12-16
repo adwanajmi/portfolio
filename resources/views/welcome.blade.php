@@ -299,8 +299,8 @@
                                                 class="fa-solid fa-code fa-beat"></i></div>
                                         <h3 class="text-white">Back-end development</h3>
                                         <p class="text-white-50 mb-0">I use PHP language in Laravel
-                                            framework in most of my projects. I would love to try a new language but at
-                                            the same time, I want to my Laravel skill too!</p>
+                                            framework in most of my projects. At the same time, I would love to try a
+                                            new language too</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -318,8 +318,7 @@
                                                 class="fa-solid fa-sitemap fa-beat"></i> </div>
                                         <h3 class="text-white">Database</h3>
                                         <p class="text-white-50 mb-0">Currently Im only using MySQL database. However,
-                                            I do have a basic experience on Oracle and Firebase too but only
-                                            basic...
+                                            I do have a basic experience on Oracle and Firebase too
                                         </p>
                                     </div>
                                 </div>
@@ -462,7 +461,7 @@
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
                                 <a class="text-primary" href="https://tnbgenco.com.my/">Malaysia My 2nd Home -
                                     Diploma</a>
-                                <li class="text-white-50 mb-0">Maintained the system using WordPress</li>
+                                <li class="text-white-50 mb-0">Maintained the website system using WordPress</li>
                                 <li class="text-white-50 mb-0">Edit and update some content </li>
 
                             </div>
