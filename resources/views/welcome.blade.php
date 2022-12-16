@@ -317,8 +317,8 @@
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
                                                 class="fa-solid fa-sitemap fa-beat"></i> </div>
                                         <h3 class="text-white">Database</h3>
-                                        <p class="text-white-50 mb-0">Currently Im only using MySQL database. However
-                                            but I do have basic experience on Oracle and Firebase database too but only
+                                        <p class="text-white-50 mb-0">Currently Im only using MySQL database. However,
+                                            I do have basic experience on Oracle and Firebase database too but only
                                             basic...
                                         </p>
                                     </div>
