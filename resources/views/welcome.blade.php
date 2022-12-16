@@ -1,5 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    @media (max-width: 767px) {
+
+        div.spotify {
+            position: fixed;
+            width: 90%;
+            bottom: 0;
+            z-index: auto;
+            display: flex;
+            justify-content: center;
+        }
+    }
+
+    div.spotify {
+        position: fixed;
+        width: 90%;
+        bottom: 0;
+        z-index: auto;
+        display: flex;
+        justify-content: center;
+    }
+</style>
 
 
 <head>
@@ -57,13 +79,22 @@
         <!-- Header ============================ -->
         <header id="header" class="sticky-top">
             <div class="container px-lg-5">
-                <div class="row">
 
-                    <iframe style="border-radius:12px; position:fixed; bottom:0; right:30px; width:30%; z-index:auto"
+                <div class="spotify">
+
+                    <iframe style="border-radius:12px;"
                         src="https://open.spotify.com/embed/track/1AJuDhb8wqV4gU5Ts6Htl5?utm_source=generator&theme=0"
-                        width="50%" height="100" frameBorder="0" allowfullscreen
+                        height="80" frameBorder="0" allowfullscreen data-auto-play="true"
                         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                        loading="lazy"></iframe>
+                        loading="lazy">
+                    </iframe>
+                    <iframe style="border-radius:12px;"
+                        src="https://open.spotify.com/embed/track/65519x9bteknKSsivY5LcD?utm_source=generator"
+                        height="80" frameBorder="0" allowfullscreen data-auto-play="true"
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy">
+                    </iframe>
+
                 </div>
             </div>
             <!-- Navbar -->
@@ -941,7 +972,7 @@
             let options = {
                 width: '60%',
                 height: '200',
-                uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
+                uri: 'spotify:episode:7makk4oTQel546B0PZlDM5',
                 autoplay: true
             };
             let callback = (EmbedController) => {};
