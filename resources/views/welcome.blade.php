@@ -55,6 +55,11 @@
     <div id="main-wrapper">
         <!-- Header ============================ -->
         <header id="header" class="sticky-top">
+            <iframe style="border-radius:12px"
+                src="https://open.spotify.com/embed/track/1AJuDhb8wqV4gU5Ts6Htl5?utm_source=generator&theme=0"
+                width="100%" height="152" frameBorder="0" allowfullscreen=""
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy"></iframe>
             <!-- Navbar -->
             <nav class="primary-menu navbar navbar-expand-lg navbar-dark bg-dark border-bottom-0">
                 <div class="container-fluid position-relative h-100 flex-lg-column ps-3 px-lg-3 pt-lg-3 pb-lg-2">
@@ -83,6 +88,7 @@
                                 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
                                 <div class="elfsight-app-b5f35f33-4cfd-4aae-a88d-7e8b90d158b6"></div>
                             </li> --}}
+
                         </ul>
                     </div>
                     <ul class="social-icons social-icons-muted social-icons-sm mt-lg-auto ms-auto ms-lg-0 d-flex">
@@ -139,6 +145,7 @@
                                         class="btn btn-outline-primary rounded-pill shadow-none smooth-scroll mt-2">Contact
                                         Me</a>
                                 </div>
+
                             </div>
                         </div>
                         <a href="#about" class="scroll-down-arrow text-white smooth-scroll"><span
@@ -916,6 +923,19 @@
         </div>
     </div>
     <!-- Disclaimer Modal End -->
+    <script src="https://open.spotify.com/embed-podcast/iframe-api/v1" async></script>
+
+    <script>
+        window.onSpotifyIframeApiReady = (IFrameAPI) => {
+            let element = document.getElementById('embed-iframe');
+            let options = {
+                uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
+                auto_play: true
+            };
+            let callback = (EmbedController) => {};
+            IFrameAPI.createController(element, options, callback);
+        };
+    </script>
 
     <!-- JavaScript -->
     <script src="/vendor/jquery/jquery.min.js"></script>
