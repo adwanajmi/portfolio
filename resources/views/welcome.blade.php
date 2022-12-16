@@ -161,7 +161,7 @@
             <section id="home">
                 <div class="hero-wrap">
                     <div class="hero-mask opacity-8 bg-dark"></div>
-                    <div class="hero-bg parallax" style="background-image:url('images/profile.png');"></div>
+                    <div class="hero-bg parallax" style="background-image:url('images/Adwa.gif');"></div>
                     <div class="hero-content section d-flex min-vh-100">
                         <div class="container my-auto">
                             <div class="row">
@@ -542,7 +542,8 @@
             <!-- Resume end -->
 
             <!-- Portfolio ============================================= -->
-            <section id="portfolio" class="section bg-dark-2">
+            <section id="portfolio" class="section bg-dark-2"
+                style="background-image:url('images/download4.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
@@ -644,7 +645,7 @@
                             <div class="col-sm-6 col-lg-4 project">
                                 <div class="portfolio-box rounded">
                                     <div class="portfolio-img rounded"> <img class="img-fluid d-block"
-                                            src="images/projects/maiwp.webp" alt="">
+                                            src="images/projects/maiwp.jpeg" alt="">
                                         <div class="portfolio-overlay"> <a class="popup-ajax stretched-link"
                                                 href="projek/maiwp.html"></a>
                                             <div class="portfolio-overlay-details">
@@ -676,11 +677,12 @@
             <!-- Portfolio end -->
 
             <!-- Testimonial ============================================= -->
-            <section id="testimonial" class="section bg-dark-1">
+            <section id="testimonial" class="section bg-dark-1"
+                style="background-image:url('images/download2.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
-                        <h2 class="text-24 text-muted opacity-1 text-uppercase fw-600 w-100 mb-0">References</h2>
+                        <h2 class="text-24 text-muted opacity-2 text-uppercase fw-600 w-100 mb-0">References</h2>
                         <p class="text-9 text-white fw-600 position-absolute w-100 align-self-center lh-base mb-0">
                             Supervisor<span
                                 class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span>
@@ -791,7 +793,7 @@
 
             <!-- Contact Me ============================================= -->
             <section id="contact" class="section bg-dark-2"
-                style="background-image:url('images/contact.jpeg'); background-size: cover;">
+                style="background-image:url('images/download5.jpeg'); background-size: cover;">
                 <div class="container px-lg-5">
                     <!-- Heading -->
                     <div class="position-relative d-flex text-center mb-5">
