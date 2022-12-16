@@ -82,12 +82,12 @@
 
                 <div class="spotify">
 
-                    <iframe style="border-radius:12px;"
+                    {{-- <iframe style="border-radius:12px;"
                         src="https://open.spotify.com/embed/track/1AJuDhb8wqV4gU5Ts6Htl5?utm_source=generator&theme=0"
                         height="80" frameBorder="0" allowfullscreen data-auto-play="true"
                         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                         loading="lazy">
-                    </iframe>
+                    </iframe> --}}
                     <iframe style="border-radius:12px;"
                         src="https://open.spotify.com/embed/track/65519x9bteknKSsivY5LcD?utm_source=generator"
                         height="80" frameBorder="0" allowfullscreen data-auto-play="true"
