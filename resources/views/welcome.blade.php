@@ -459,7 +459,7 @@
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
                                 <a class="text-primary" href="https://tnbgenco.com.my/">Malaysia My 2nd Home -
                                     Diploma</a>
-                                <li class="text-white-50 mb-0">Maintan a website system using WordPress</li>
+                                <li class="text-white-50 mb-0">Do the maintenance website system using WordPress</li>
                                 <li class="text-white-50 mb-0">Edit and update some content </li>
 
                             </div>
