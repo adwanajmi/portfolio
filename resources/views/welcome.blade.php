@@ -88,7 +88,7 @@
                         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                         loading="lazy">
                     </iframe> --}}
-                    <iframe style="border-radius:12px;"
+                    <iframe draggable style="border-radius:12px;"
                         src="https://open.spotify.com/embed/track/65519x9bteknKSsivY5LcD?utm_source=generator"
                         height="80" frameBorder="0" allowfullscreen data-auto-play="true"
                         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
