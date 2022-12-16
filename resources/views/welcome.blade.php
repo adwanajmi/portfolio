@@ -30,8 +30,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="images/logo.png" rel="icon" />
     <title>Adwa Najmi</title>
-    <meta name="description" content="Simone is responsive bootstrap 5 one page personal portfolio html template.">
-    <meta name="author" content="harnishdesign.net">
+    <meta name="description" content="Hey There, so this is my Portfolio. Have a look at it.">
+    <meta name="author" content="Adwa Najmi">
 
     <!-- Web Fonts -->
     <link
