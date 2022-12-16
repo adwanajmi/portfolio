@@ -33,6 +33,8 @@
     <script src="https://kit.fontawesome.com/f2b831a8bf.js" crossorigin="anonymous"></script>
 
 
+
+
 </head>
 
 <body class="side-header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
@@ -116,7 +118,7 @@
             <section id="home">
                 <div class="hero-wrap">
                     <div class="hero-mask opacity-8 bg-dark"></div>
-                    <div class="hero-bg parallax" style="background-image:url('images/profile.png');"></div>
+                    <div class="hero-bg parallax" style="background-image:url('images/profiles.GIF');"></div>
                     <div class="hero-content section d-flex min-vh-100">
                         <div class="container my-auto">
                             <div class="row">
@@ -238,8 +240,8 @@
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
                                                 class="fa-solid fa-laptop-code fa-beat"></i></div>
                                         <h3 class="text-white">Front-end Development</h3>
-                                        <p class="text-white-50 mb-0">I usally use the basic from Laravel which is
-                                            blade file, including HTML, CSS, and jQuery. I also has experience on
+                                        <p class="text-white-50 mb-0">I would usually use the basic from Laravel which
+                                            is blade file, including HTML, CSS, and jQuery. I also have an experience on
                                             Angular framework</p>
                                     </div>
                                 </div>
@@ -249,8 +251,8 @@
                                                 class="fa-solid fa-code fa-beat"></i></div>
                                         <h3 class="text-white">Back-end development</h3>
                                         <p class="text-white-50 mb-0">Most of my project, I use PHP language in Laravel
-                                            framework. I would like to try new language but at the same time, I want to
-                                            enhance my Laravel skill too!</p>
+                                            framework in most of my projects. I would love to try a new language but at
+                                            the same time, I want to my Laravel skill too!</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -267,8 +269,10 @@
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
                                                 class="fa-solid fa-sitemap fa-beat"></i> </div>
                                         <h3 class="text-white">Database</h3>
-                                        <p class="text-white-50 mb-0">Currently I only use MySQL Database, but I have
-                                            experience on Oracle and Firebase database too but only basic...</p>
+                                        <p class="text-white-50 mb-0">Currently Im only using MySQL database. However
+                                            but I do have basic experience on Oracle and Firebase database too but only
+                                            basic...
+                                        </p>
                                     </div>
                                 </div>
                                 {{-- <div class="col-md-6">
@@ -343,24 +347,14 @@
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">Electrical Engineering (SPM)</h3>
                                 <a class="text-primary">SM Teknik Gombak</a>
-                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
-                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
-                                    called as Health Fitness</li>
-                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
-                                    the workout routine for those that are new into the gym sport.</li>
-
+                                <li class="text-white-50 mb-0">Sijil Pelajaran Malaysia</li>
                             </div>
 
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">PMR</h3>
                                 <a class="text-primary" href="https://www.smktmelawati.edu.my/">SMK Taman Melawati</a>
-                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
-                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
-                                    called as Health Fitness</li>
-                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
-                                    the workout routine for those that are new into the gym sport.</li>
-
+                                <li class="text-white-50 mb-0">Penilaian Menengah Rendah</li>
                             </div>
                         </div>
 
