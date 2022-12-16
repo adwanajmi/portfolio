@@ -299,7 +299,7 @@
                                         <div class="featured-box-icon text-primary bg-dark-1 shadow-sm rounded"> <i
                                                 class="fa-solid fa-code fa-beat"></i></div>
                                         <h3 class="text-white">Back-end development</h3>
-                                        <p class="text-white-50 mb-0">Most of my project, I use PHP language in Laravel
+                                        <p class="text-white-50 mb-0">I use PHP language in Laravel
                                             framework in most of my projects. I would love to try a new language but at
                                             the same time, I want to my Laravel skill too!</p>
                                     </div>
@@ -310,7 +310,7 @@
                                                 class="fa-solid fa-mobile-retro fa-beat"></i> </div>
                                         <h3 class="text-white">Mobile Development</h3>
                                         <p class="text-white-50 mb-0">I have an experience working with Flutter and
-                                            Ionic during my studies at University.</p>
+                                            Ionic during my studies.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -319,7 +319,7 @@
                                                 class="fa-solid fa-sitemap fa-beat"></i> </div>
                                         <h3 class="text-white">Database</h3>
                                         <p class="text-white-50 mb-0">Currently Im only using MySQL database. However,
-                                            I do have basic experience on Oracle and Firebase database too but only
+                                            I do have a basic experience on Oracle and Firebase too but only
                                             basic...
                                         </p>
                                     </div>
@@ -416,10 +416,13 @@
                                 <h3 class="text-5 text-white">Software Engineer</h3>
                                 <a class="text-primary" href="https://pipeline.com.my">Pipeline Network Sdn Bhd</a>
                                 <li class="text-white-50 mb-0">Developed 2 prototype website for:-
-                                <li class="text-white-50 mb-0">-MBPJ Sistem Kutipan</li>
-                                <li class="text-white-50 mb-0">-MAIWP - Sistem Pengurusan
-                                    Sumber </li>
+                                    <ul>
+                                        <li class="text-white-50 mb-0">MBPJ Sistem Kutipan</li>
+                                        <li class="text-white-50 mb-0">MAIWP - Sistem Pengurusan
+                                            Sumber </li>
+                                    </ul>
                                 </li>
+
                                 <li class="text-white-50 mb-0">The website is basically to show to the client and
                                     demonstrate the system flow structure for client to get better picture before
                                     proceed to main project</li>
@@ -460,7 +463,7 @@
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
                                 <a class="text-primary" href="https://tnbgenco.com.my/">Malaysia My 2nd Home -
                                     Diploma</a>
-                                <li class="text-white-50 mb-0">Do the maintenance website system using WordPress</li>
+                                <li class="text-white-50 mb-0">Maintained the system using WordPress</li>
                                 <li class="text-white-50 mb-0">Edit and update some content </li>
 
                             </div>
@@ -889,42 +892,61 @@
                         aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-4">
-                    <p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                        scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic typesetting, remaining essentially unchanged.</p>
+                    <p>Last updated: 2022-12-01</p>
+
                     <h3 class="text-white mb-3 mt-4 mt-4">Terms of Use</h3>
-                    <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-                        essentially unchanged. Simply dummy text of the printing and typesetting industry.</p>
-                    <h5 class="text-white text-4 mt-4">Part I – Information Simone collects and controls</h5>
-                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <h5 class="text-white text-4 mt-4">Part II – Information that Simone processes on your behalf</h5>
-                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <h5 class="text-white text-4 mt-4">Part III – General</h5>
-                    <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-                        essentially unchanged. Lorem Ipsum has been the industry's standard dummy text ever since the
-                        1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                        book.</p>
-                    <h3 class="text-white mb-3 mt-4">Privacy Policy</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book. </p>
+
+                    <h5 class="text-white text-4 mt-4">1. Introduction – Welcome to my Portfolio (“Company”, “we”,
+                        “our”,
+                        “us”)! </h5>
+                    <p>These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at
+                        https://adwanajmi.herokuapp.com (together or individually “Service”) operated by me.</p>
+                    <p>Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard
+                        and disclose information that results from your use of our web pages.</p>
+                    <p>Your agreement with us includes these Terms and our Privacy Policy (“Agreements”). You
+                        acknowledge that you have read and understood Agreements, and agree to be bound of them.</p>
+                    <p>If you do not agree with (or cannot comply with) Agreements, then you may not use the Service,
+                        but please let us know by emailing at adwaaa@live.com so we can try to find a solution. These
+                        Terms apply to all visitors, users and others who wish to access or use Service.</p>
+                    <h5 class="text-white text-4 mt-4">2. Communication</h5>
+                    <p>By using our Service, you agree to subscribe to newsletters, marketing or promotional materials
+                        and other information we may send. However, you may opt out of receiving any, or all, of these
+                        communications from us by following the unsubscribe link or by emailing at adwaaa@live.com.</p>
+                    <h5 class="text-white text-4 mt-4">3. Purchases</h5>
+                    <p>If you wish to purchase any product or service made available through Service (“Purchase”), you
+                        may be asked to supply certain information relevant to your Purchase including but not limited
+                        to, your credit or debit card number, the expiration date of your card, your billing address,
+                        and your shipping information.</p>
+                    <p>You represent and warrant that: (i) you have the legal right to use any card(s) or other payment
+                        method(s) in connection with any Purchase; and that (ii) the information you supply to us is
+                        true, correct and complete.</p>
+                    <p>We may employ the use of third party services for the purpose of facilitating payment and the
+                        completion of Purchases. By submitting your information, you grant us the right to provide the
+                        information to these third parties subject to our Privacy Policy.</p>
+                    <p>We reserve the right to refuse or cancel your order at any time for reasons including but not
+                        limited to: product or service availability, errors in the description or price of the product
+                        or service, error in your order or other reasons.</p>
+                    <p>We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal
+                        transaction is suspected.
+                    </p>
+                    <h5 class="text-white text-4 mt-4">4. Refund</h5>
+                    <p>We issue refunds for Contracts within 30 days of the original purchase of the Contract.
+
+                    </p>
+                    <h3 class="text-white mb-3 mt-4">Copyright Policy</h3>
+                    <p>We respect the intellectual property rights of others. It is our policy to respond to any claim
+                        that Content posted on Service infringes on the copyright or other intellectual property rights
+                        (“Infringement”) of any person or entity.</p>
                     <ol class="lh-lg">
-                        <li>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim
-                            iriure.</li>
-                        <li>Quidam lisque persius interesset his et, Lisque persius interesset his et, in quot quidam
-                            persequeris vim, ad mea essent possim iriure.</li>
-                        <li>In quot quidam persequeris vim, ad mea essent possim iriure. Quidam lisque persius
-                            interesset his et.</li>
-                        <li>Quidam lisque persius interesset his et, Lisque persius interesset his et.</li>
-                        <li>Interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad mea
-                            essent possim iriure.</li>
-                        <li>Persius interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim,
-                            ad mea essent possim iriure.</li>
-                        <li>Quot quidam persequeris vim Quidam lisque persius interesset his et, Lisque persius
-                            interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.</li>
+                        <li>If you are a copyright owner, or authorized on behalf of one, and you believe that the
+                            copyrighted work has been copied in a way that constitutes copyright infringement, please
+                            submit your claim via email to adwaaa@live.com, with the subject line: “Copyright
+                            Infringement” and include in your claim a detailed description of the alleged Infringement
+                            as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims”</li>
+                        <li>You may be held accountable for damages (including costs and attorneys’ fees) for
+                            misrepresentation or bad-faith claims on the infringement of any Content found on and/or
+                            through Service on your copyright.</li>
+
                     </ol>
                 </div>
             </div>
@@ -942,24 +964,40 @@
                         aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-4">
-                    <p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                        scrambled it to make a type specimen book. </p>
-                    <ul class="lh-lg">
-                        <li>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim
-                            iriure.</li>
-                        <li>Quidam lisque persius interesset his et, Lisque persius interesset his et, in quot quidam
-                            persequeris vim, ad mea essent possim iriure.</li>
-                        <li>In quot quidam persequeris vim, ad mea essent possim iriure. Quidam lisque persius
-                            interesset his et.</li>
-                        <li>Quidam lisque persius interesset his et, Lisque persius interesset his et.</li>
-                        <li>Interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim, ad mea
-                            essent possim iriure.</li>
-                        <li>Persius interesset his et, Lisque persius interesset his et, in quot quidam persequeris vim,
-                            ad mea essent possim iriure.</li>
-                        <li>Quot quidam persequeris vim Quidam lisque persius interesset his et, Lisque persius
-                            interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.</li>
-                    </ul>
+                    <p>The information provided by my Portfolio (“Company”, “we”, “our”, “us”) on
+                        https://adwanajmi.herokuapp.com/ (the “Site”) is for general informational purposes only. All
+                        information on the Site is provided in good faith, however we make no representation or warranty
+                        of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability,
+                        availability, or completeness of any information on the Site. </p>
+
+                    <p>UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND
+                        INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE.
+                        YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN
+                        RISK.</p>
+                    <h5 class="text-white text-4 mt-4">TESTIMONIALS DISCLAIMER
+                    </h5>
+                    <p>The Site may contain testimonials by users of our products and/or services. These testimonials
+                        reflect the real-life experiences and opinions of such users. However, the experiences are
+                        personal to those particular users, and may not necessarily be representative of all users of
+                        our products and/or services. We do not claim, and you should not assume that all users will
+                        have the same experiences.</p>
+                    <p>YOUR INDIVIDUAL RESULTS MAY VARY.
+                    </p>
+                    <p>The testimonials on the Site are submitted in various forms such as text, audio and/or video, and
+                        are reviewed by us before being posted. They appear on the Site verbatim as given by the users,
+                        except for the correction of grammar or typing errors. Some testimonials may have been shortened
+                        for the sake of brevity, where the full testimonial contained extraneous information not
+                        relevant to the general public.</p>
+
+                    <p>The views and opinions contained in the testimonials belong solely to the individual user and do
+                        not reflect our views and opinions.</p>
+                    <h5 class="text-white text-4 mt-4">CONTACT US
+                    </h5>
+                    <p>Should you have any feedback, comments, requests for technical support or other inquiries, please
+                        contact us by email: adwaaa@live.com.
+
+                    </p>
+
                 </div>
             </div>
         </div>
