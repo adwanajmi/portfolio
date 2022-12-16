@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -55,11 +56,16 @@
     <div id="main-wrapper">
         <!-- Header ============================ -->
         <header id="header" class="sticky-top">
-            <iframe style="border-radius:12px"
-                src="https://open.spotify.com/embed/track/1AJuDhb8wqV4gU5Ts6Htl5?utm_source=generator&theme=0"
-                width="100%" height="152" frameBorder="0" allowfullscreen=""
-                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                loading="lazy"></iframe>
+            <div class="container px-lg-5">
+                <div class="row">
+
+                    <iframe style="border-radius:12px; position:fixed; bottom:0; right:30px; width:30%; z-index:auto"
+                        src="https://open.spotify.com/embed/track/1AJuDhb8wqV4gU5Ts6Htl5?utm_source=generator&theme=0"
+                        width="50%" height="100" frameBorder="0" allowfullscreen
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"></iframe>
+                </div>
+            </div>
             <!-- Navbar -->
             <nav class="primary-menu navbar navbar-expand-lg navbar-dark bg-dark border-bottom-0">
                 <div class="container-fluid position-relative h-100 flex-lg-column ps-3 px-lg-3 pt-lg-3 pb-lg-2">
@@ -144,7 +150,9 @@
                                     <a href="#contact"
                                         class="btn btn-outline-primary rounded-pill shadow-none smooth-scroll mt-2">Contact
                                         Me</a>
+
                                 </div>
+
 
                             </div>
                         </div>
@@ -152,7 +160,9 @@
                                 class="animated"><i class="fa fa-chevron-down"></i></span></a>
                     </div>
                 </div>
+
             </section>
+
             <!-- Intro end -->
 
             <!-- About ============================================= -->
@@ -929,6 +939,8 @@
         window.onSpotifyIframeApiReady = (IFrameAPI) => {
             let element = document.getElementById('embed-iframe');
             let options = {
+                width: '60%',
+                height: '200',
                 uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
                 autoplay: true
             };
