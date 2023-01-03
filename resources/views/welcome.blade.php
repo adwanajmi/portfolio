@@ -171,8 +171,8 @@
                                         <p>I'm a Programmer...</p>
                                         <p>I'm a Laravel Developer...</p>
                                         <p>I'm a Web System Developer...</p>
-                                        <p>I'm a Sofware Developer...</p>
-                                        <p>I'm a Sofware Engineer...</p>
+                                        <p>I'm a Software Developer...</p>
+                                        <p>I'm a Software Engineer...</p>
                                     </div>
                                     <p class="text-7 fw-500 text-white mb-2 mb-md-3">Hello World,</p>
                                     <h2 class="text-16 fw-600 text-white mb-2 mb-md-3"><span class="typed"></span>
