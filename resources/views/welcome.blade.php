@@ -172,7 +172,9 @@
                                         <p>I'm a Laravel Developer...</p>
                                         <p>I'm a Web System Developer...</p>
                                         <p>I'm a Software Developer...</p>
+                                        <p>I'm a Software Programmer...</p>
                                         <p>I'm a Software Engineer...</p>
+
                                     </div>
                                     <p class="text-7 fw-500 text-white mb-2 mb-md-3">Hello World,</p>
                                     <h2 class="text-16 fw-600 text-white mb-2 mb-md-3"><span class="typed"></span>
@@ -415,8 +417,24 @@
                             <h2 class="text-6 text-white fw-600 mb-4">My Work Experience</h2>
 
                             <div class="bg-dark rounded p-4 mb-4">
-                                <p class="badge bg-success text-2 fw-400">January 2022 - Present</p>
+                                <p class="badge bg-success text-2 fw-400">March 2023 - Present</p>
                                 <h3 class="text-5 text-white">Software Engineer</h3>
+                                <a class="text-primary" href="https://www.swm-environment.com/">SWM Environment Sdn Bhd</a>
+                                <li class="text-white-50 mb-0">Just started work here
+                                    <ul>
+                                        <li class="text-white-50 mb-0">Mirror System</li>
+                                        <li class="text-white-50 mb-0">Idek </li>
+                                    </ul>
+                                </li>
+
+                                <li class="text-white-50 mb-0">qwertyuiop</li>
+                                <li class="text-white-50 mb-0">poiuytrewq</li>
+
+                            </div>
+
+                            <div class="bg-dark rounded p-4 mb-4">
+                                <p class="badge bg-success text-2 fw-400">January 2022 - February 2023</p>
+                                <h3 class="text-5 text-white">Software Developer</h3>
                                 <a class="text-primary" href="https://pipeline.com.my">Pipeline Network Sdn Bhd</a>
                                 <li class="text-white-50 mb-0">Developed 2 prototype website for:-
                                     <ul>
