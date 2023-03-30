@@ -419,8 +419,10 @@
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-success text-2 fw-400">March 2023 - Present</p>
                                 <h3 class="text-5 text-white">Software Engineer</h3>
-                                <a class="text-primary" href="https://www.swm-environment.com/">SWM Environment Sdn Bhd</a>
-                                <li class="text-white-50 mb-0">Just started work here
+                                <a class="text-primary" href="https://www.swm-environment.com/">SWM Environment Sdn
+                                    Bhd</a>
+                                <li class="text-white-50 mb-0">Assisted in the implementation of a new system called
+                                    the Mirror System.
                                     <ul>
                                         <li class="text-white-50 mb-0">Mirror System</li>
                                         <li class="text-white-50 mb-0">Idek </li>
@@ -472,11 +474,13 @@
                                 <h3 class="text-5 text-white">Internship Programme - Web Developer</h3>
                                 <a class="text-primary" href="https://tnbgenco.com.my/">TNB Headquarters - Degree</a>
                                 <li class="text-white-50 mb-0">Able to develop a website for Genco Academy Department
-                                    by
-                                    using Laravel system.</li>
+                                    by using Laravel system.</li>
                                 <li class="text-white-50 mb-0">Improving technological skills like the GUI provided
                                     functions to add user, department, learning management system and view history at
                                     the website.</li>
+                                <li class="text-white-50 mb-0">Successfully improved the technological capabilities of
+                                    Genco Academy Department's website
+                                    by creating and implementing advanced features using Laravel system</li>
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
