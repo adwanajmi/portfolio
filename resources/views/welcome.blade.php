@@ -377,24 +377,21 @@
                                 <h3 class="text-5 text-white">Bachelor of Software Engineering with Honor</h3>
                                 <a class="text-primary" href="https://www.unikl.edu.my/">Unikl Malaysian Institute of
                                     Information Technology</a>
-                                <li class="text-white-50 mb-0">Graduated with CGPA 2.94</li>
-                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
-                                    called as Gogolf.
-
+                                {{-- <li class="text-white-50 mb-0">Graduated with CGPA 2.94</li> --}}
+                                <li class="text-white-50 mb-0">As part of my final year project, I developed a mobile application system called Gogolf.
                                 </li>
-                                <li class="text-white-50 mb-0">The targeted user is for the golfer that playing golf to
-                                    make the booking process easier</li>
+                                <li class="text-white-50 mb-0">A user-friendly interface that allows golfers to quickly search for golf courses and book tee times</li>
+                                <li class="text-white-50 mb-0">An automated confirmation system that sends booking details to both the golf course and the golfer</li>
+                                <li class="text-white-50 mb-0">A feedback system that allows golfers to rate their experiences at different golf courses and share their opinions with other users</li>
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
                                 <p class="badge bg-primary text-2 fw-400">2014 - 2017</p>
                                 <h3 class="text-5 text-white">Diploma in Software Engineering</h3>
                                 <a class="text-primary" href="https://www.mmu.edu.my/">Multimedia University</a>
-                                <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li>
-                                <li class="text-white-50 mb-0">Developed a mobile application system for my FYP which
-                                    called as Health Fitness</li>
-                                <li class="text-white-50 mb-0">The mobile application can calculate their BMI, and show
-                                    the workout routine for those that are new into the gym sport.</li>
+                                {{-- <li class="text-white-50 mb-0">Graduated with CGPA 3.1</li> --}}
+                                <li class="text-white-50 mb-0">As part of my final year project, I developed a mobile application system called Health Fitness.</li>
+                                <li class="text-white-50 mb-0">The application allows users to calculate their Body Mass Index (BMI) and provides workout routines suitable for beginners in the gym.</li>
 
                             </div>
                             <div class="bg-dark rounded p-4 mb-4">
